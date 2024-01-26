@@ -1,0 +1,10 @@
+D:\show-network\show-wifi-network\show-wifi-network\bin\Debug\show-wifi-network.exe.config
+D:\show-network\show-wifi-network\show-wifi-network\bin\Debug\show-wifi-network.exe
+D:\show-network\show-wifi-network\show-wifi-network\bin\Debug\show-wifi-network.pdb
+D:\show-network\show-wifi-network\show-wifi-network\obj\Debug\show-wifi-network.csproj.AssemblyReference.cache
+D:\show-network\show-wifi-network\show-wifi-network\obj\Debug\show_wifi_network.Properties.Resources.resources
+D:\show-network\show-wifi-network\show-wifi-network\obj\Debug\show-wifi-network.csproj.GenerateResource.cache
+D:\show-network\show-wifi-network\show-wifi-network\obj\Debug\show-wifi-network.csproj.CoreCompileInputs.cache
+D:\show-network\show-wifi-network\show-wifi-network\obj\Debug\show-wifi-network.exe
+D:\show-network\show-wifi-network\show-wifi-network\obj\Debug\show-wifi-network.pdb
+D:\show-network\show-wifi-network\show-wifi-network\obj\Debug\show_wifi_network.Form1.resources
